@@ -1,0 +1,9 @@
+101 A Rohit Gurgaon 65 77 43 66 87
+102 B Akansha Delhi 55 46 24 66 77
+103 A Himanshu Faridabad 75 38 84 38 58
+104 A Ekta Delhi 85 84 39 58 85
+105 B Deepanshu Gurgaon 34 55 56 23 66
+106 B Ayush Delhi 66 62 98 74 87
+107 B Aditi Delhi 76 83 75 38 58
+108 A Sahil Faridabad 55 32 43 56 66
+109 A Krati Delhi 34 53 25 67 75
