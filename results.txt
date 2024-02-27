@@ -1,0 +1,9 @@
+101 A Yes
+102 D No
+103 B Yes
+104 B Yes
+105 A Yes
+106 C No
+107 C No
+108 D No
+109 A Yes
